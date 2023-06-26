@@ -354,7 +354,7 @@ GCAST_BLACKLIST = [
 ]
 
 DEVS = [
-    ,
+    290584613
 ]
 
 def calc(num1, num2, fun):
